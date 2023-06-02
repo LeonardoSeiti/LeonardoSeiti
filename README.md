@@ -1,5 +1,5 @@
 - 👋 Olá, sou o  @LeonardoSeiti.
-- 👀 Estou interresado em trabalhar com progamação, preferência front-end.
+- 👀 Estou interresado em trabalhar com progamação.
 - 🌱 Atualmente estudando na FIAP em ADS.
 
 <!---
