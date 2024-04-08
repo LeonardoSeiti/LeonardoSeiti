@@ -2,12 +2,12 @@
 -  Atualmente estudando Análise e desenvolvimento de sistemas na FIAP.
 -  Principal hobby são jogos eletrônicos
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-content: center;">
   <h2 align="center">GitHub Stats</h2>
   <a href="https://github.com/LeonardoSeiti" style="text-decoration: none; margin-right: 10px;">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSeiti&theme=apprentice&show_icons=true&hide_border=true&count_private=true" alt="LeonardoSeiti"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoSeiti&theme=apprentice&show_icons=true&hide_border=true&count_private=true" alt="LeonardoSeiti"/>
   </a>
-    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSeiti&theme=apprentice&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="LeonardoSeiti"/>
+    <img align="right" height="195em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSeiti&theme=apprentice&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="LeonardoSeiti"/>
 </div>
 
 
