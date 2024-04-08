@@ -1,5 +1,5 @@
 -  Bem vindo, sou o @LeonardoSeiti.
--  Atualmente estudando Análise e desenvolvimento de sistemas na FIAP.
+-  Atualmente cursando Análise e desenvolvimento de sistemas na FIAP.
 -  Principal hobby são jogos eletrônicos
 
 <div style="display: flex; justify-content: center; align-content: center;">
